@@ -1,0 +1,288 @@
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\ApplicationInsights.config
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\csc.exe
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\vbc.exe
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\VBCSCompiler.exe
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\WebFilms.dll.config
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\WebFilms.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\WebFilms.pdb
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.Web.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.Web.Http.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.Web.Http.WebHost.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.Web.Mvc.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.Web.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.ApplicationInsights.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\Newtonsoft.Json.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\System.Net.Http.Formatting.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Helpers.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Http.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Http.WebHost.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Razor.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.WebPages.Deployment.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.WebPages.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.WebPages.Razor.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\WebActivator.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.Web.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.Web.Http.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.Web.Http.WebHost.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.Web.Mvc.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.Web.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.ApplicationInsights.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\System.Net.Http.Formatting.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Http.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Http.WebHost.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\WebActivator.pdb
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\Newtonsoft.Json.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\fr\System.Web.Http.resources.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\obj\Debug\WebFilms.csprojResolveAssemblyReference.cache
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\obj\Debug\WebFilms.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\obj\Debug\WebFilms.pdb
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Mvc.dll
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Helpers.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Mvc.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Razor.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.WebPages.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.WebPages.Deployment.xml
+C:\Users\FRANCKBOAH\documents\visual studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.WebPages.Razor.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\ApplicationInsights.config
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\csc.exe
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\vbc.exe
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\VBCSCompiler.exe
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\WebFilms.dll.config
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\WebFilms.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\WebFilms.pdb
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.Web.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.Web.Http.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.Web.Http.WebHost.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.Web.Mvc.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.Web.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\Newtonsoft.Json.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Net.Http.Formatting.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Helpers.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Http.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Http.WebHost.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Mvc.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Razor.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.WebPages.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.WebPages.Razor.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\WebActivator.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.Web.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.Web.Http.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.Web.Http.WebHost.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\AttributeRouting.Web.Mvc.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.Web.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Net.Http.Formatting.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Helpers.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Http.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Http.WebHost.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Mvc.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Razor.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.WebPages.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.WebPages.Razor.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\WebActivator.pdb
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\Newtonsoft.Json.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\fr\System.Web.Http.resources.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\obj\Debug\WebFilms.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\obj\Debug\WebFilms.pdb
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Cors.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Http.Cors.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\System.Web.Http.Cors.xml
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\bin\fr\System.Web.Cors.resources.dll
+C:\Users\Franck\Documents\Visual Studio 2015\Projects\WebFilms\WebFilms\obj\Debug\WebFilms.csprojResolveAssemblyReference.cache
+D:\WebFilms\WebFilms\bin\ApplicationInsights.config
+D:\WebFilms\WebFilms\bin\roslyn\csc.exe
+D:\WebFilms\WebFilms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebFilms\WebFilms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebFilms\WebFilms\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebFilms\WebFilms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebFilms\WebFilms\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebFilms\WebFilms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebFilms\WebFilms\bin\roslyn\System.Collections.Immutable.dll
+D:\WebFilms\WebFilms\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebFilms\WebFilms\bin\roslyn\vbc.exe
+D:\WebFilms\WebFilms\bin\roslyn\VBCSCompiler.exe
+D:\WebFilms\WebFilms\bin\roslyn\VBCSCompiler.exe.config
+D:\WebFilms\WebFilms\bin\WebFilms.dll.config
+D:\WebFilms\WebFilms\bin\WebFilms.dll
+D:\WebFilms\WebFilms\bin\WebFilms.pdb
+D:\WebFilms\WebFilms\bin\AttributeRouting.dll
+D:\WebFilms\WebFilms\bin\AttributeRouting.Web.dll
+D:\WebFilms\WebFilms\bin\AttributeRouting.Web.Http.dll
+D:\WebFilms\WebFilms\bin\AttributeRouting.Web.Http.WebHost.dll
+D:\WebFilms\WebFilms\bin\AttributeRouting.Web.Mvc.dll
+D:\WebFilms\WebFilms\bin\Microsoft.AI.Agent.Intercept.dll
+D:\WebFilms\WebFilms\bin\Microsoft.AI.DependencyCollector.dll
+D:\WebFilms\WebFilms\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\WebFilms\WebFilms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\WebFilms\WebFilms\bin\Microsoft.AI.Web.dll
+D:\WebFilms\WebFilms\bin\Microsoft.AI.WindowsServer.dll
+D:\WebFilms\WebFilms\bin\Microsoft.ApplicationInsights.dll
+D:\WebFilms\WebFilms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebFilms\WebFilms\bin\Microsoft.Web.Infrastructure.dll
+D:\WebFilms\WebFilms\bin\Newtonsoft.Json.dll
+D:\WebFilms\WebFilms\bin\System.Net.Http.Formatting.dll
+D:\WebFilms\WebFilms\bin\System.Web.Cors.dll
+D:\WebFilms\WebFilms\bin\System.Web.Helpers.dll
+D:\WebFilms\WebFilms\bin\System.Web.Http.Cors.dll
+D:\WebFilms\WebFilms\bin\System.Web.Http.dll
+D:\WebFilms\WebFilms\bin\System.Web.Http.WebHost.dll
+D:\WebFilms\WebFilms\bin\System.Web.Mvc.dll
+D:\WebFilms\WebFilms\bin\System.Web.Razor.dll
+D:\WebFilms\WebFilms\bin\System.Web.WebPages.Deployment.dll
+D:\WebFilms\WebFilms\bin\System.Web.WebPages.dll
+D:\WebFilms\WebFilms\bin\System.Web.WebPages.Razor.dll
+D:\WebFilms\WebFilms\bin\WebActivator.dll
+D:\WebFilms\WebFilms\bin\AttributeRouting.xml
+D:\WebFilms\WebFilms\bin\AttributeRouting.Web.xml
+D:\WebFilms\WebFilms\bin\AttributeRouting.Web.Http.xml
+D:\WebFilms\WebFilms\bin\AttributeRouting.Web.Http.WebHost.xml
+D:\WebFilms\WebFilms\bin\AttributeRouting.Web.Mvc.xml
+D:\WebFilms\WebFilms\bin\Microsoft.AI.DependencyCollector.xml
+D:\WebFilms\WebFilms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\WebFilms\WebFilms\bin\Microsoft.AI.Web.xml
+D:\WebFilms\WebFilms\bin\Microsoft.AI.WindowsServer.xml
+D:\WebFilms\WebFilms\bin\Microsoft.ApplicationInsights.xml
+D:\WebFilms\WebFilms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebFilms\WebFilms\bin\System.Net.Http.Formatting.xml
+D:\WebFilms\WebFilms\bin\System.Web.Helpers.xml
+D:\WebFilms\WebFilms\bin\System.Web.Http.xml
+D:\WebFilms\WebFilms\bin\System.Web.Http.Cors.xml
+D:\WebFilms\WebFilms\bin\System.Web.Http.WebHost.xml
+D:\WebFilms\WebFilms\bin\System.Web.Mvc.xml
+D:\WebFilms\WebFilms\bin\System.Web.Razor.xml
+D:\WebFilms\WebFilms\bin\System.Web.WebPages.xml
+D:\WebFilms\WebFilms\bin\System.Web.WebPages.Deployment.xml
+D:\WebFilms\WebFilms\bin\System.Web.WebPages.Razor.xml
+D:\WebFilms\WebFilms\bin\WebActivator.pdb
+D:\WebFilms\WebFilms\bin\Newtonsoft.Json.xml
+D:\WebFilms\WebFilms\bin\fr\System.Net.Http.Formatting.resources.dll
+D:\WebFilms\WebFilms\bin\fr\System.Web.Cors.resources.dll
+D:\WebFilms\WebFilms\bin\fr\System.Web.Http.resources.dll
+D:\WebFilms\WebFilms\bin\fr\System.Web.Http.WebHost.resources.dll
+D:\WebFilms\WebFilms\obj\Debug\WebFilms.csprojResolveAssemblyReference.cache
+D:\WebFilms\WebFilms\obj\Debug\WebFilms.dll
+D:\WebFilms\WebFilms\obj\Debug\WebFilms.pdb
+D:\WebBibliotheque\WebFilms\bin\ApplicationInsights.config
+D:\WebBibliotheque\WebFilms\bin\roslyn\csc.exe
+D:\WebBibliotheque\WebFilms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebBibliotheque\WebFilms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebBibliotheque\WebFilms\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebBibliotheque\WebFilms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebBibliotheque\WebFilms\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebBibliotheque\WebFilms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebBibliotheque\WebFilms\bin\roslyn\System.Collections.Immutable.dll
+D:\WebBibliotheque\WebFilms\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebBibliotheque\WebFilms\bin\roslyn\vbc.exe
+D:\WebBibliotheque\WebFilms\bin\roslyn\VBCSCompiler.exe
+D:\WebBibliotheque\WebFilms\bin\roslyn\VBCSCompiler.exe.config
+D:\WebBibliotheque\WebFilms\bin\WebFilms.dll.config
+D:\WebBibliotheque\WebFilms\bin\WebFilms.dll
+D:\WebBibliotheque\WebFilms\bin\WebFilms.pdb
+D:\WebBibliotheque\WebFilms\bin\AttributeRouting.dll
+D:\WebBibliotheque\WebFilms\bin\AttributeRouting.Web.dll
+D:\WebBibliotheque\WebFilms\bin\AttributeRouting.Web.Http.dll
+D:\WebBibliotheque\WebFilms\bin\AttributeRouting.Web.Http.WebHost.dll
+D:\WebBibliotheque\WebFilms\bin\AttributeRouting.Web.Mvc.dll
+D:\WebBibliotheque\WebFilms\bin\Microsoft.AI.Agent.Intercept.dll
+D:\WebBibliotheque\WebFilms\bin\Microsoft.AI.DependencyCollector.dll
+D:\WebBibliotheque\WebFilms\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\WebBibliotheque\WebFilms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\WebBibliotheque\WebFilms\bin\Microsoft.AI.Web.dll
+D:\WebBibliotheque\WebFilms\bin\Microsoft.AI.WindowsServer.dll
+D:\WebBibliotheque\WebFilms\bin\Microsoft.ApplicationInsights.dll
+D:\WebBibliotheque\WebFilms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebBibliotheque\WebFilms\bin\Microsoft.Web.Infrastructure.dll
+D:\WebBibliotheque\WebFilms\bin\Newtonsoft.Json.dll
+D:\WebBibliotheque\WebFilms\bin\System.Net.Http.Formatting.dll
+D:\WebBibliotheque\WebFilms\bin\System.Web.Cors.dll
+D:\WebBibliotheque\WebFilms\bin\System.Web.Helpers.dll
+D:\WebBibliotheque\WebFilms\bin\System.Web.Http.Cors.dll
+D:\WebBibliotheque\WebFilms\bin\System.Web.Http.dll
+D:\WebBibliotheque\WebFilms\bin\System.Web.Http.WebHost.dll
+D:\WebBibliotheque\WebFilms\bin\System.Web.Mvc.dll
+D:\WebBibliotheque\WebFilms\bin\System.Web.Razor.dll
+D:\WebBibliotheque\WebFilms\bin\System.Web.WebPages.Deployment.dll
+D:\WebBibliotheque\WebFilms\bin\System.Web.WebPages.dll
+D:\WebBibliotheque\WebFilms\bin\System.Web.WebPages.Razor.dll
+D:\WebBibliotheque\WebFilms\bin\WebActivator.dll
+D:\WebBibliotheque\WebFilms\bin\AttributeRouting.xml
+D:\WebBibliotheque\WebFilms\bin\AttributeRouting.Web.xml
+D:\WebBibliotheque\WebFilms\bin\AttributeRouting.Web.Http.xml
+D:\WebBibliotheque\WebFilms\bin\AttributeRouting.Web.Http.WebHost.xml
+D:\WebBibliotheque\WebFilms\bin\AttributeRouting.Web.Mvc.xml
+D:\WebBibliotheque\WebFilms\bin\Microsoft.AI.DependencyCollector.xml
+D:\WebBibliotheque\WebFilms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\WebBibliotheque\WebFilms\bin\Microsoft.AI.Web.xml
+D:\WebBibliotheque\WebFilms\bin\Microsoft.AI.WindowsServer.xml
+D:\WebBibliotheque\WebFilms\bin\Microsoft.ApplicationInsights.xml
+D:\WebBibliotheque\WebFilms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebBibliotheque\WebFilms\bin\System.Net.Http.Formatting.xml
+D:\WebBibliotheque\WebFilms\bin\System.Web.Helpers.xml
+D:\WebBibliotheque\WebFilms\bin\System.Web.Http.xml
+D:\WebBibliotheque\WebFilms\bin\System.Web.Http.Cors.xml
+D:\WebBibliotheque\WebFilms\bin\System.Web.Http.WebHost.xml
+D:\WebBibliotheque\WebFilms\bin\System.Web.Mvc.xml
+D:\WebBibliotheque\WebFilms\bin\System.Web.Razor.xml
+D:\WebBibliotheque\WebFilms\bin\System.Web.WebPages.xml
+D:\WebBibliotheque\WebFilms\bin\System.Web.WebPages.Deployment.xml
+D:\WebBibliotheque\WebFilms\bin\System.Web.WebPages.Razor.xml
+D:\WebBibliotheque\WebFilms\bin\WebActivator.pdb
+D:\WebBibliotheque\WebFilms\bin\Newtonsoft.Json.xml
+D:\WebBibliotheque\WebFilms\bin\fr\System.Net.Http.Formatting.resources.dll
+D:\WebBibliotheque\WebFilms\bin\fr\System.Web.Cors.resources.dll
+D:\WebBibliotheque\WebFilms\bin\fr\System.Web.Http.resources.dll
+D:\WebBibliotheque\WebFilms\bin\fr\System.Web.Http.WebHost.resources.dll
+D:\WebBibliotheque\WebFilms\obj\Debug\WebFilms.csprojResolveAssemblyReference.cache
+D:\WebBibliotheque\WebFilms\obj\Debug\WebFilms.dll
+D:\WebBibliotheque\WebFilms\obj\Debug\WebFilms.pdb

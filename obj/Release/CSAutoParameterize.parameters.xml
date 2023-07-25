@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="FilmCS-Web.config Connection String" description="FilmCS Chaîne de connexion utilisée dans web.config par l’application pour accéder à la base de données." defaultValue="Data Source=FRANCKBOAH-PC\SAGE300;Initial Catalog=FilmBD;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\FRANCKBOAH\\documents\\visual\ studio\ 2015\\Projects\\WebFilms\\WebFilms\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='FilmCS']/@connectionString" />
+  </parameter>
+</parameters>
